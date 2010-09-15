@@ -1,0 +1,7 @@
+loading autotest/rails_rspec2
+C:\Ruby191\bin\ruby -rrubygems C:/Ruby191/lib/ruby/gems/1.9.1/gems/rspec-core-2.0.0.beta.19/bin/rspec C:/rails/sample_app/spec/controllers/pages_controller_spec.rb
+[32m.[0m[32m.[0m
+
+Finished in 5.33 seconds
+[32m2 examples, 0 failures[0m
+

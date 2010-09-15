@@ -4,3 +4,25 @@ Started GET "/pages/home" for 127.0.0.1 at 2010-09-11 01:27:13 +0100
   Processing by PagesController#home as HTML
 Rendered pages/home.html.erb within layouts/application (15.6ms)
 Completed 200 OK in 47ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2010-09-14 23:59:43 +0100
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered C:/Ruby191/lib/ruby/gems/1.9.1/gems/actionpack-3.0.0.rc/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2010-09-15 00:00:07 +0100
+
+ActionController::RoutingError (No route matches "/contact"):
+  
+
+Rendered C:/Ruby191/lib/ruby/gems/1.9.1/gems/actionpack-3.0.0.rc/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2010-09-15 00:01:15 +0100
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 62ms (Views: 62.5ms | ActiveRecord: 0.0ms)
