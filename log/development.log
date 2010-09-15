@@ -26,3 +26,27 @@ Started GET "/pages/about" for 127.0.0.1 at 2010-09-15 00:01:15 +0100
   Processing by PagesController#about as HTML
 Rendered pages/about.html.erb within layouts/application (15.6ms)
 Completed 200 OK in 62ms (Views: 62.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/help" for 127.0.0.1 at 2010-09-15 16:57:37 +0100
+
+ActionController::RoutingError (No route matches "/pages/help"):
+  
+
+Rendered C:/Ruby191/lib/ruby/gems/1.9.1/gems/actionpack-3.0.0.rc/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/pages/help" for 127.0.0.1 at 2010-09-15 16:58:58 +0100
+
+ActionController::RoutingError (No route matches "/pages/help"):
+  
+
+Rendered C:/Ruby191/lib/ruby/gems/1.9.1/gems/actionpack-3.0.0.rc/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/pages/help" for 127.0.0.1 at 2010-09-15 16:59:09 +0100
+
+ActionController::RoutingError (No route matches "/pages/help"):
+  
+
+Rendered C:/Ruby191/lib/ruby/gems/1.9.1/gems/actionpack-3.0.0.rc/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
